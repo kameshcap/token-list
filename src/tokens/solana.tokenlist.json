@@ -95570,6 +95570,17 @@
         "description": "Sorted is Australia’s first all-in-one home services marketplace – allowing you to connect everything you need for your home, all in one place.",
         "website": "https://www.sortedservices.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4CbYqoidzwBMKmvQSBv8WPFkdUBA3fvqjc7sYTXiL9hQ",
+      "symbol": "FIX",
+      "name": "Fixture",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/kameshcap/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
